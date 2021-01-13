@@ -1,0 +1,51 @@
+h1 {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    margin: 30px auto 0 auto;
+    text-align: center;
+    padding-top: 305px;
+    font-weight: lighter;
+}
+h2 {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    text-align: center;
+    margin-top: auto;
+    font-weight: lighter;
+}
+
+body {
+    background-color: #228B22;
+    background-image: url(photo-1524395489643-09a0ad79de91.jpeg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+nav {
+    padding-top: 3px;
+}
+
+footer {
+    padding-top: 436px;
+    color: white;
+    text-size-adjust: 33px;
+    font-size: xx-small;
+    font-weight: lighter;
+
+}
+
+div {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    text-align: center;
+    font-weight: lighter;
+}
+
+a{
+    padding: 25px;
+    font-size: larger;
+    font-weight: bold;
+    text-decoration: underline;
+
+}
